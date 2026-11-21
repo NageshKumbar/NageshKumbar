@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! ⚡ I'm Nagesh.<br><br>I am a software developer focused on building scalable web applications and intuitive user interfaces. I enjoy bridging the gap between engineering and design.<br><br>Languages: Java, JavaScript, C, Python, C++<br><br>Frontend: HTML/CSS, React, Vite, Tailwind, React<br><br>Backend: Node.js, SQL, REST APIs<br><br>Tools: Git, VS Code, Postman<br><br>When I'm not coding, I'm usually Gaming, Exploring, Traveling.
+Hello World! ⚡ I'm Nagesh.<br><br>I am a software developer focused on building scalable web applications and intuitive user interfaces. I enjoy bridging the gap between engineering and design.<br><br>Languages: Java, JavaScript, C, Python, C++<br><br>Frontend: HTML/CSS, React, Vite, Tailwind, React<br><br>Backend: Node.js, SQL, REST APIs, Django<br><br>Tools: Git, VS Code, Postman<br><br>When I'm not coding, I'm usually Gaming, Exploring, Traveling.
 
 
 ## 🌐 Socials:
